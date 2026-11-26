@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "To cite the independently released proof and verification materials, use the versioned citation below."
+title: "A246479: column recurrences for all eligible alphabet sizes"
+authors:
+  - family-names: "Chain.Ren"
+version: "1.0.0"
+date-released: "2026-11-26"
+url: "https://github.com/Asakitan/oeis-a246479/releases/tag/proof-v1.0.0"
+repository-code: "https://github.com/Asakitan/oeis-a246479"
+license: MIT
+preferred-citation:
+  type: report
+  title: "A246479: column recurrences for all eligible alphabet sizes"
+  authors:
+    - family-names: "Chain.Ren"
+  version: "1.0.0"
+  year: 2026
+  url: "https://github.com/Asakitan/oeis-a246479/blob/proof-v1.0.0/PROOF.md"

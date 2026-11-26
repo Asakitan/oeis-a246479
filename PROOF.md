@@ -1,5 +1,11 @@
 # A246479：三字后缀的对称压缩证明列递推猜想
 
+**署名：** Chain.Ren · 独立研究
+
+**版本：** [proof-v1.0.0](https://github.com/Asakitan/oeis-a246479/releases/tag/proof-v1.0.0) · 版本日期：2026-11-26（Australia/Sydney）；实际公开时间见 Release。
+
+本证明与验证资料在 OpenAI Codex 的实质协助下形成；不代表学校成果，不主张已完成同行评审或核定全球首证。
+
 ## 公开问题和结论
 
 [OEIS A246479，原始条目](https://oeis.org/A246479/internal) 记录了 R. H. Hardin 的数组问题及 Robert Israel 于 2024-11-10 提出的两个依赖参数的列递推（原文使用 “It appears”）。令 $T(n,k)$ 等于长度 $n+3$ 的有序字串数，字母来自 $\{0,\dots,k\}$，任意连续四个字中不存在两个**不同位置**的字母之和等于 $k$。原始序列从 $n=1,k=1$ 开始。
